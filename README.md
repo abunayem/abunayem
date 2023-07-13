@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abunayem
-- 👀 I’m interested in Flutter, Android, Ios
+- 👀 I’m interested in Flutter, Android, and ios
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Flutter, Android,
 - 📫 How to reach me hmabns@gmail.com
